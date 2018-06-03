@@ -13,7 +13,7 @@ You can find here some links to interesting materials, articles or presentations
 
 ## Notation (extended)
 
-EventStorming offers notation for process and software modeling, like Events, Commands, Aggregates, Read Models... Notation is open and you can always add your own elements to make model even better. This is why I'm using Rules, Metrics, Alerts and few other concepts. It's always about embedding different perspectives into model, making it visible.
+EventStorming offers notation for process and software modeling, like Events, Commands, Aggregates, Read Models... Notation is open and you can always add your own elements to make model even better. This is why I'm using Rules, Metrics, Alerts and few other concepts. It's always about embedding different perspectives into model, making them visible.
 
 <p align="center">
   <img src="assets/notation.png" />
@@ -64,6 +64,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Adam Dymitruk](https://twitter.com/adymitruk)
 - [Marco Heimeshoff](https://twitter.com/Heimeshoff)
 - [Martin Schimak](https://twitter.com/martinschimak)
+- [Nick Tune](https://twitter.com/ntcoding)
 
 I'm sorry if I missed someone related to the topic...
 
