@@ -9,11 +9,11 @@ Do you need to know this tool? No matter if you work on green-field software, le
 > It's developer's (mis)understanding, not expert knowledge that gets released into production
 > - Alberto Brandolini
 
-You can find some links to interesting materials, articles or presentations about EventStorming. Pull-requests are always welcome!
+You can find here some links to interesting materials, articles or presentations about EventStorming. Pull-requests are always welcome!
 
 ## Notation (extended)
 
-EventStorming offers notation for process and software modeling, like Events, Commands, Aggregates, Read Models... Notation is open and you can always add your own elements to make model even better. This is why I'm using Rules, Metrics, Alerts and few other concepts. It's always about embedding different perspectives into model, make it visible.
+EventStorming offers notation for process and software modeling, like Events, Commands, Aggregates, Read Models... Notation is open and you can always add your own elements to make model even better. This is why I'm using Rules, Metrics, Alerts and few other concepts. It's always about embedding different perspectives into model, making it visible.
 
 <p align="center">
   <img src="assets/notation.png" />
