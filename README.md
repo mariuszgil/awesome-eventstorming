@@ -48,6 +48,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [EventStorming, Paul Rayner](https://www.youtube.com/watch?v=bXm8Cznyb_s)
+- [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
 
 ## Presentation slides
 
@@ -59,6 +60,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 - [Alberto Brandolini](https://twitter.com/ziobrando), inventor of EventStorming
 - [Mathias Verraes](https://twitter.com/mathiasverraes)
+- [Dan North](https://twitter.com/tastapod)
 - [Mariusz Gil](https://twitter.com/mariuszgil)
 - [Alexey Zimarev](https://twitter.com/Zimareff)
 - [Adam Dymitruk](https://twitter.com/adymitruk)
