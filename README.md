@@ -79,6 +79,11 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 - [DDD by Example, Factory](https://github.com/ddd-by-examples/factory)
 
+## Online Communities
+
+- [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818)
+- [DDD/CQRS/ES Slack see the #event-storming channel](https://ddd-cqrs-es.herokuapp.com/)
+
 ## Related topics
 
 There are some interesting articles not directly connected to main topic, but underlaying concepts.
