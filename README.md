@@ -43,6 +43,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [EventStorming Exercise, Tim Schraepen](http://sch3lp.github.io/2014/07/12/event-storming-exercise/)
 - [EventStorming: Warsztaty Product Craftsmanship Agile Wrocław, Rafał Makara (PL)](https://rmakara.github.io/notes/Event-Storming-Warsztaty-Agile-Wroclaw)
 - [How to Use Event Storming for Product Development, Andrzej Samek](https://developers.livechatinc.com/blog/event-storming-for-product-development/)
+- [Event Storming and Spring with a Splash of DDD, Jakub Pilimon](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 
 ## Videos
 
