@@ -49,7 +49,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 ## Videos
 
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
-- [EventStorming, Paul Rayner](https://www.youtube.com/watch?v=bXm8Cznyb_s)
+- [EventStorming - Collaborative Learning for Complex Domains, Paul Rayner](https://www.youtube.com/watch?v=04tGbixfGEY)
 - [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
 
 ## Presentation slides
@@ -69,6 +69,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Marco Heimeshoff](https://twitter.com/Heimeshoff)
 - [Martin Schimak](https://twitter.com/martinschimak)
 - [Nick Tune](https://twitter.com/ntcoding)
+- [Paul Rayner](https://twitter.com/thepaulrayner)
 
 I'm sorry if I missed someone related to the topic...
 
