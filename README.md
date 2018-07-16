@@ -45,6 +45,15 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [How to Use Event Storming for Product Development, Andrzej Samek](https://developers.livechatinc.com/blog/event-storming-for-product-development/)
 - [Event Storming and Spring with a Splash of DDD, Jakub Pilimon](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [EventStorming's Coincidence with Business Process Improvement](https://buildplease.com/pages/lean/)
+- "First Pop Coffee Company" series, Nick Chamberlain
+  - [Big Picture EventStorming](https://buildplease.com/pages/fpc-2/)
+  - [Domain Discoveries](https://buildplease.com/pages/fpc-3/)
+  - [Hotspots](https://buildplease.com/pages/fpc-4/)
+  - [People and Commands](https://buildplease.com/pages/fpc-5/)
+  - [Design Level EventStorming](https://buildplease.com/pages/fpc-6/)
+  - [Complexity and Cost](https://buildplease.com/pages/fpc-7/)
+  - [Design Level EventStorming Continued](https://buildplease.com/pages/fpc-8/)
+- [EventStorming, What You Need to Know, Daniel Whittaker](http://danielwhittaker.me/2016/07/08/eventstorming-what-you-need-to-know/)
 
 ## Videos
 
@@ -70,6 +79,10 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Martin Schimak](https://twitter.com/martinschimak)
 - [Nick Tune](https://twitter.com/ntcoding)
 - [Paul Rayner](https://twitter.com/thepaulrayner)
+- [Nick Chamberlain](https://twitter.com/heynickc)
+- [Daniel Whittaker](https://twitter.com/codescribler)
+- [Kenny Baas](https://twitter.com/kenny_baas)
+- [Martin Schimak](https://twitter.com/martinschimak)
 
 I'm sorry if I missed someone related to the topic...
 
