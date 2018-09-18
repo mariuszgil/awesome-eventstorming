@@ -60,12 +60,14 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [EventStorming - Collaborative Learning for Complex Domains, Paul Rayner](https://www.youtube.com/watch?v=04tGbixfGEY)
 - [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
+- [Transactions redefined, Alberto Brandolini](https://skillsmatter.com/skillscasts/9507-dddx-bytes)
 
 ## Presentation slides
 
 - [EventStorming Recipes, Alberto Brandolini](https://www.slideshare.net/ziobrando/event-storming-recipes)
 - [Model Storming, Alberto Brandolini](https://www.slideshare.net/ziobrando/model-storming)
 - [EventStorming, Colaborative Learning for Complex Domains, Paul Rayner](http://yowconference.com.au/slides/yowwest2016/Rayner-EventStorming.pdf)
+- [Transactions redefined, Alberto Brandolini](https://www.slideshare.net/ziobrando/transactions-redefined)
 
 ## People on Twitter
 
