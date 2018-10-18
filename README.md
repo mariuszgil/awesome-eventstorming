@@ -86,7 +86,6 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Nick Chamberlain](https://twitter.com/heynickc)
 - [Daniel Whittaker](https://twitter.com/codescribler)
 - [Kenny Baas](https://twitter.com/kenny_baas)
-- [Martin Schimak](https://twitter.com/martinschimak)
 - [João Rosa](https://twitter.com/joaoasrosa)
 
 I'm sorry if I missed someone related to the topic...
