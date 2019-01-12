@@ -60,7 +60,7 @@ Below, we put information, that you collected with your colleagues in order to p
   * Cash,
   * Card,
   * Money available in the prepaid account associated with customer’s account in our online rental store.
-* Gift voucher.
+	* Gift voucher.
 
 ## Online rental store
 
