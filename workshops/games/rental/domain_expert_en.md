@@ -8,7 +8,7 @@ Due to increased competitiveness in the rental market you decided to create IT s
 
 Besides the implementation of the system dedicated for offline / stationary rental offices you want to open the new channel over the Internet to allow your customers to browse the games available in your stores, reserve the games and charge the pre-paid accounts. In the process of company digitalization, the elements will be associated with integration with external business intelligence system, to reach even higher advantage over the competitors.
 
-Try to help the IT specialists’. Share your knowledge. If they ask the question about the requirement, that you will not find in the notes below - try to answer up to your best knowledge. Remember, it is a workshop and we have limited amount of time - so, do not go too far with your imagination. :)
+Try to help the IT specialists. Share your knowledge. If they ask the question about the requirement, that you will not find in the notes below - try to answer up to your best knowledge. Remember, it is a workshop and we have limited amount of time - so, do not go too far with your imagination. :)
 
 Try to convince the team to create the common language for describing the things. Maybe create a dictionary of the frequently used words. Naming convention must be understandable for everyone. During the event storming session use the consistent vocabulary on the stickers.
 
@@ -60,7 +60,7 @@ Below, we put information, that you collected with your colleagues in order to p
   * Cash,
   * Card,
   * Money available in the prepaid account associated with customer’s account in our online rental store.
-* Gift voucher.
+	* Gift voucher.
 
 ## Online rental store
 
