@@ -69,8 +69,8 @@ Below, we put information, that you collected with your colleagues in order to p
 * Customer can see the details of specified game and read about it.
 * Customer can reserve the game and pick it up in the offline rental store.
 * The length of the reservation is 2 days.
-* After the reservation, we deliver the game to the offline rental store within’ 1 hour (even when the game is not available on the warehouse stock of the chosen offline store, but the game is available in the other offline store).
-* If client does not pick up the game within’ 2 days then we cancel the reservation and the game becomes available for the other customers.
+* After the reservation, we deliver the game to the offline rental store within 1 hour (even when the game is not available on the warehouse stock of the chosen offline store, but the game is available in the other offline store).
+* If client does not pick up the game within 2 days then we cancel the reservation and the game becomes available for the other customers.
 * Reservation is free. However, we must implement some solution to avoid the situation, when some kids reserve the games over and over the game, and they destroy our business. 
 * Customer can charge top up his own prepaid account and then use it for purchasing the rentals.
 * Payments are being handled by external payments gateway.
