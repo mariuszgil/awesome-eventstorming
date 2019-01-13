@@ -32,7 +32,7 @@ Below, we put information, that you collected with your colleagues in order to p
 * We rent the board games.
 * All the products are being identified in the system by SKU numbers. Also. each product has its own descriptive name, which is used by customers.
 * All the products have EAN numbers assigned. We use these numbers to scan the barcodes with the barcodes scanner that we have in all of the stores.
-* Barcode scanner works exactly the same as typical keyboard. You connect it to USB or PS/2 port, you can the barcode, in result the barcode is being written in the computer.
+* Barcode scanner works exactly the same as typical keyboard. You connect it to USB or PS/2 port, you can scan the barcode, in result the barcode's value is being written in the computer.
 * Sometimes our customers return damaged games. Sometimes they lose some element of the game (like pawn or card). It is a big problem in our business.
 
 ## Prices
