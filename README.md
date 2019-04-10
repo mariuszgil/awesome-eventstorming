@@ -95,7 +95,8 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 ## Usage, software implementations using EventStorming
 
-- [DDD by Example, Factory](https://github.com/ddd-by-examples/factory)
+- [DDD by Examples, Factory](https://github.com/ddd-by-examples/factory)
+- [DDD by Examples, Library](https://github.com/ddd-by-examples/library)
 
 ## Online Communities
 
