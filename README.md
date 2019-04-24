@@ -111,3 +111,4 @@ There are some interesting articles not directly connected to main topic, but un
 - [How to spot a liar: get them to tell their story backwards](http://www.dailymail.co.uk/sciencetech/article-460505/How-spot-liar-tell-story-backwards.html)
 - [Detection of Deception: Cognitive Load](http://psychology.iresearchnet.com/forensic-psychology/police-psychology/detection-of-deception-cognitive-load/)
 - [Divergent, Emergent & Convergent Thinking, Performance People Pty Ltd](https://www.slideshare.net/GeoffatPerformancePeople/fan-explore-focus)
+- [The rise and fall of the Dungeon Master](https://medium.com/@ziobrando/the-rise-and-fall-of-the-dungeon-master-c2d511eed12f)
