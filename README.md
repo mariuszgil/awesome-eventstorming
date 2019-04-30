@@ -55,6 +55,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
   - [Design Level EventStorming Continued](https://buildplease.com/pages/fpc-8/)
 - [EventStorming, What You Need to Know, Daniel Whittaker](http://danielwhittaker.me/2016/07/08/eventstorming-what-you-need-to-know/)
 - [How Event Storming Will Improve Your Business Processes, Wojciech Maciejak](https://www.monterail.com/blog/event-storming-business-development)
+- [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 
 ## Videos
 
