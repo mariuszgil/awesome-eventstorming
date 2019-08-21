@@ -57,6 +57,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [How Event Storming Will Improve Your Business Processes, Wojciech Maciejak](https://www.monterail.com/blog/event-storming-business-development)
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [A step by step guide to Event Storming – our experience, Natalia Kolińska](https://www.boldare.com/blog/event-storming-guide/)
+- [Event Storming and Event Modeling - Cheat Sheet For Organizers](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
 
 ## Videos
 
