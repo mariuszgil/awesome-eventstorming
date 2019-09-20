@@ -72,6 +72,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [50.000 Orange Stickies Later, Alberto Brandolini](https://www.slideshare.net/ziobrando/50000-orange-stickies-later)
 - [EventStorming, Colaborative Learning for Complex Domains, Paul Rayner](http://yowconference.com.au/slides/yowwest2016/Rayner-EventStorming.pdf)
 - [Transactions redefined, Alberto Brandolini](https://www.slideshare.net/ziobrando/transactions-redefined)
+- [From EventStorming to CoDDDing, Kenny Baas & João Rosa](https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-nextbuildconf)
 
 ## People on Twitter
 
@@ -88,7 +89,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Nick Chamberlain](https://twitter.com/heynickc)
 - [Daniel Whittaker](https://twitter.com/codescribler)
 - [Kenny Baas](https://twitter.com/kenny_baas)
-- [Martin Schimak](https://twitter.com/martinschimak)
+- [João Rosa](https://twitter.com/joaoasrosa)
 
 I'm sorry if I missed someone related to the topic...
 
@@ -105,6 +106,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 - [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
 - [DDD/CQRS/ES Slack see the #event-storming channel](https://ddd-cqrs-es.herokuapp.com/)
+- [EventStorming @ Twitter](https://twitter.com/eventstorming)
 
 ## Related topics
 
