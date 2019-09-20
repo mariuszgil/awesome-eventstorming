@@ -103,7 +103,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 ## Online Communities
 
-- [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818)
+- [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
 - [DDD/CQRS/ES Slack see the #event-storming channel](https://ddd-cqrs-es.herokuapp.com/)
 
 ## Related topics
