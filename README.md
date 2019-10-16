@@ -41,7 +41,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [EventStorming: On Fake Domains and Happy Paths, Mathias Verraes](http://verraes.net/2014/07/event-storming-fake-domains-happy-paths/)
 - [EventStorming, Storytelling, Visualisations, Mathias Verraes](http://verraes.net/2015/03/event-storming-storytelling-visualisations/)
 - [EventStorming Exercise, Tim Schraepen](http://sch3lp.github.io/2014/07/12/event-storming-exercise/)
-- [EventStorming: Warsztaty Product Craftsmanship Agile Wrocław, Rafał Makara (PL)](https://rmakara.github.io/notes/Event-Storming-Warsztaty-Agile-Wroclaw)
+- [EventStorming: Warsztaty Product Craftsmanship Agile Wrocław, Rafał Makara (PL)](https://rmakara.github.io/Event-Storming-Warsztaty-Agile-Wroclaw)
 - [How to Use Event Storming for Product Development, Andrzej Samek](https://developers.livechatinc.com/blog/event-storming-for-product-development/)
 - [Event Storming and Spring with a Splash of DDD, Jakub Pilimon](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [EventStorming's Coincidence with Business Process Improvement](https://buildplease.com/pages/lean/)
@@ -58,6 +58,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [A step by step guide to Event Storming – our experience, Natalia Kolińska](https://www.boldare.com/blog/event-storming-guide/)
 - [Event Storming and Event Modeling - Cheat Sheet For Organizers](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
+- [Misadventures with BDUF, a Big Picture Event Storming series, Philippe Bourgau](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
 
 ## Videos
 
@@ -90,6 +91,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Daniel Whittaker](https://twitter.com/codescribler)
 - [Kenny Baas](https://twitter.com/kenny_baas)
 - [Martin Schimak](https://twitter.com/martinschimak)
+- [Philippe Bourgau](https://twitter.com/pbourgau)
 
 I'm sorry if I missed someone related to the topic...
 
@@ -104,7 +106,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 ## Online Communities
 
-- [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818)
+- [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
 - [DDD/CQRS/ES Slack see the #event-storming channel](https://ddd-cqrs-es.herokuapp.com/)
 
 ## Related topics
