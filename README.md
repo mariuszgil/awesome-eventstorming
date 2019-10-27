@@ -31,6 +31,8 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 - [Introducing EventStorming, Alberto Brandolini](http://eventstorming.com)
 - [Domain-Driven Design Distilled, Chapter 7: Acceleration and Management Tools, Vaughn Vernon](https://www.pearson.com/us/higher-education/program/Vernon-Domain-Driven-Design-Distilled/PGM332632.html)
+- [The EventStorming Handbook, Paul Rayner](https://leanpub.com/eventstorming_handbook)
+- [What is Domain-Driven Design?, Chapter 8: Event Storming, Vladik Khononov](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/)
 
 ## Articles
 
@@ -91,6 +93,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [Kenny Baas](https://twitter.com/kenny_baas)
 - [Martin Schimak](https://twitter.com/martinschimak)
 - [Philippe Bourgau](https://twitter.com/pbourgau)
+- [Vladik Khononov](https://twitter.com/vladikk)
 
 I'm sorry if I missed someone related to the topic...
 
