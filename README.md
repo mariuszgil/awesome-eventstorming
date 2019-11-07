@@ -61,6 +61,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [A step by step guide to Event Storming – our experience, Natalia Kolińska](https://www.boldare.com/blog/event-storming-guide/)
 - [Event Storming and Event Modeling - Cheat Sheet For Organizers](https://github.com/ylorph/RandomThoughts/blob/master/2019.08.16_StormingWithStickies.md)
 - [Misadventures with BDUF, a Big Picture Event Storming series, Philippe Bourgau](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
+- [Detailed Agenda for Design-Level Event Storming series, Philippe Bourgau](https://philippe.bourgau.net/why-should-we-use-design-level-event-storming-for-ddd/)
 
 ## Videos
 
