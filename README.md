@@ -116,7 +116,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 ## Offline Communities
 
 - [Barcelona](https://www.meetup.com/Barcelona-EventStorming-for-Startups-and-Businesses-Meetup/)
-- [Netherlands] https://www.meetup.com/Visual-Collaborators-Netherlands/)
+- [Netherlands] (https://www.meetup.com/Visual-Collaborators-Netherlands/)
 
 ## Related topics
 
