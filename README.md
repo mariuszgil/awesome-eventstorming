@@ -111,7 +111,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 ## Online Communities
 
 - [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
-- [DDD/CQRS/ES Slack see the #event-storming channel](https://ddd-cqrs-es.herokuapp.com/)
+- [DDD/CQRS/ES Slack see the #event-storming channel](https://github.com/ddd-cqrs-es/slack-community)
 
 ## Related topics
 
