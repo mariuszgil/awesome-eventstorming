@@ -113,6 +113,11 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [EventStormers Google Group Community](https://groups.google.com/forum/#!forum/eventstorming)
 - [DDD/CQRS/ES Slack see the #event-storming channel](https://github.com/ddd-cqrs-es/slack-community)
 
+## Offline Communities
+
+- [Barcelona](https://www.meetup.com/Barcelona-EventStorming-for-Startups-and-Businesses-Meetup/)
+- [Netherlands](https://www.meetup.com/Visual-Collaborators-Netherlands/)
+
 ## Related topics
 
 There are some interesting articles not directly connected to main topic, but underlaying concepts.
