@@ -101,7 +101,25 @@ I'm sorry if I missed someone related to the topic...
 
 ## Remote EventStorming
 
-Have you ever been at "remote" party or tried to listen few parallel discussions the same time? Ok, you know the answer...
+Have you ever been at "remote" party or tried to listen few parallel discussions the same time? Ok, you know the answer... 
+
+#### Notes from Alberto Brandolini
+
+- [Remote EventStorming](https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/)
+- [EventStorming in COVID-19 times](https://blog.avanscoperta.it/it/2020/03/26/eventstorming-in-covid-19-times/)
+
+#### Other resources
+
+["Trying out online EventStorming"](https://www.youtube.com/watch?v=CbPEibNUe0s) video taken at Virtual DDD meetup:
+
+<p align="center">
+  <img src="assets/boards/trying-out-online-eventstorming.png" />
+</p>
+
+- [Making the most out of remote EventStorming, Kenny Baas-Schwegler](https://baasie.com/2020/03/19/making-the-most-out-of-remote-eventstorming/)
+- [Remote EventStorming Guiding Heuristics](https://www.dddheuristics.com/remote-eventstorming/)
+- [Remote Event Storming, Maciej Czerpiński](https://medium.com/@maciejczerpinski/remote-event-storming-bc3eff80110b)
+- [Remote Team Flow EventStorming for Retrospectives, Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 
 ## Usage, software implementations using EventStorming
 
