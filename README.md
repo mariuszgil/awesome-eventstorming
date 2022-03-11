@@ -69,6 +69,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 - [EventStorming - Collaborative Learning for Complex Domains, Paul Rayner](https://www.youtube.com/watch?v=04tGbixfGEY)
 - [Event Storming for fun and profit, Dan North](https://skillsmatter.com/skillscasts/8003-event-storming-for-fun-and-profit)
 - [Transactions redefined, Alberto Brandolini](https://skillsmatter.com/skillscasts/9507-dddx-bytes)
+- [Recording of Big Picture Online Event Storming](https://youtu.be/vwuSDCRghb8)
 
 ## Presentation slides
 
@@ -107,6 +108,9 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 - [Remote EventStorming](https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/)
 - [EventStorming in COVID-19 times](https://blog.avanscoperta.it/it/2020/03/26/eventstorming-in-covid-19-times/)
+
+#### Tools
+- [prooph board - The Online Event Storming Platform](https://prooph-board.com)
 
 #### Other resources
 
