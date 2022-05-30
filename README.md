@@ -111,6 +111,8 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 #### Tools
 - [prooph board - The Online Event Storming Platform](https://prooph-board.com)
+- [miro](https://miro.com)
+- [mural](https://www.mural.co)
 
 #### Other resources
 
