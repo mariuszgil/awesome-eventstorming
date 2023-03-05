@@ -141,6 +141,9 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [Barcelona](https://www.meetup.com/Barcelona-EventStorming-for-Startups-and-Businesses-Meetup/)
 - [Netherlands](https://www.meetup.com/Visual-Collaborators-Netherlands/)
 
+## Training
+[EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming.
+
 ## Related topics
 
 There are some interesting articles not directly connected to main topic, but underlaying concepts.
