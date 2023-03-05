@@ -142,7 +142,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 - [Netherlands](https://www.meetup.com/Visual-Collaborators-Netherlands/)
 
 ## Training
-- [EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming.
+- [EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming. Everything about EventStorming with examples.
 
 ## Related topics
 
