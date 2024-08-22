@@ -111,6 +111,7 @@ Have you ever been at "remote" party or tried to listen few parallel discussions
 
 #### Tools
 - [prooph board - The Online Event Storming Platform](https://prooph-board.com)
+- [Event Storming Template for Diagrams.net (formerly known as Draw.io).](https://github.com/josenaldo/event-storming-template)
 
 #### Other resources
 
