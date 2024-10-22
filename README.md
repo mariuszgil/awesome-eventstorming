@@ -38,7 +38,7 @@ EventStorming offers notation for process and software modeling, like Events, Co
 
 - [Introducing EventStorming, Alberto Brandolini](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - [Facilitating EventStorming, Mathias Verraes](http://verraes.net/2013/08/facilitating-event-storming/)
-- [An introduction to EventStorming: The easy way to achieve domain-driven design, Steven A. Lowe](https://techbeacon.com/introduction-event-storming-easy-way-achieve-domain-driven-design)
+- [An introduction to EventStorming: The easy way to achieve domain-driven design, Steven A. Lowe](https://web.archive.org/web/20221206120656/https://techbeacon.com/app-dev-testing/introduction-event-storming-easy-way-achieve-domain-driven-design)
 - [Modelling Reactive Systems with EventStorming and Domain-Driven Design, Kevin Webber](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 - [EventStorming: On Fake Domains and Happy Paths, Mathias Verraes](http://verraes.net/2014/07/event-storming-fake-domains-happy-paths/)
 - [EventStorming, Storytelling, Visualisations, Mathias Verraes](http://verraes.net/2015/03/event-storming-storytelling-visualisations/)
